@@ -1,6 +1,6 @@
 # Personal-dotfiles-mac
 
-This is my personal configuration backup for Mac based on https://github.com/driesvints/dotfiles and 
+This is my personal configuration backup for Mac based on https://github.com/driesvints/dotfiles and https://github.com/Remi-deronzier/public-dotfiles
 
 
 ## Introduction
