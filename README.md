@@ -13,10 +13,10 @@ This repository is specifically tailored for setting up new Mac devices. However
 
 Before migrating to a new Mac, it's crucial to back up all your existing data. Make sure you've covered everything on the checklist below before proceeding with the migration:
 
-[ ] Have you committed and pushed any changes/branches to your Git repositories?
-[ ] Have you saved all important documents from non-iCloud directories?- Have you backed up work from apps that aren't synced through iCloud
-[ ] Have you exported important data from your local database?
-[ ] Have you updated [mackup](https://github.com/lra/mackup) to the latest version and performed a `mackup backup`?
+- Have you committed and pushed any changes/branches to your Git repositories?
+- Have you saved all important documents from non-iCloud directories?- Have you backed up work from apps that aren't synced through iCloud
+- Have you exported important data from your local database?
+- Have you updated [mackup](https://github.com/lra/mackup) to the latest version and performed a `mackup backup`?
 
 ### Setting Up Your Mac
 
